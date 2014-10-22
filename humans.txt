@@ -1,0 +1,18 @@
+Udinra(Change this with your website name) is a popular blog (or website as per your preference) authored by Esha Upadhyay(Give your name or your company name). Follow the author at udinra.com/esha-upadhyay/ (Give your about page link here)
+
+/* TEAM (Give details about person behind the website.Like Developer,Webmaster.Since mine is one man show I included one entry only.You can repeat the block for as many person as you like)*/
+	Webmaster:Esha Upadhyay
+	Contact: https://udinra.com/contact-me
+	Twitter: @Udinra
+	Location: Kolkata, India
+	From: Varanasi, India
+
+/* SITE (Give some details about your website)*/
+	Language: English
+	Site name:  Udinra
+	Site URL:   https://udinra.com/
+	
+/* TECHNOLOGY COLOPHON (though not mandatory but can give technology details)*/
+	Standards: HTML5, CSS3
+	Components: LESS, HTML5 Shiv, jQuery
+	Software: Notepad++, GIMP, FireFox with add-ons: Web Developer, Firebug
